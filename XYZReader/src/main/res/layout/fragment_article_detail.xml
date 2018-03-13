@@ -104,7 +104,6 @@
         android:layout_marginRight="@dimen/fab_margin"
         android:src="@drawable/ic_share"
         android:contentDescription="@string/action_share"
-        app:pressedTranslationZ="12dp"
-        android:stateListAnimator="@anim/fab_state_list_anim" />
+        android:stateListAnimator="@drawable/fab_state_list" />
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
